@@ -1,0 +1,94 @@
+
+<html>
+
+    <head>
+        
+    <title>Welcome to my webpage</title>
+
+    </head>
+    
+    <body>
+        <br>
+        <h1 align="center">Meet Google Pixel!</h1>
+        <br>
+        <img align="right" src="https://media.carphonewarehouse.com/is/image/cpw2/pixelSILVER?$xl-standard$"> 
+        <h2>Pixel. Phone by Google.</h2>
+        
+        <ul>
+            <li>5-inch Full HD display</li>
+            <li>12.3MP camera</li>
+            <li>Fingerprint sensor</li>
+            <li>Google Assistant</li>
+            <li>Available in 32GB and 128GB capacity</li>
+            <li>Available in Black and Silver colours</li>
+        </ul>
+        
+        <hr>
+        
+        <p>Pixel is the first smartphone exclusively created by Google. The smartphone features a 5-inch Full HD display, top quality 12.3MP camera, and unlimited storage for all your photos and videos.</p>
+        
+        <hr>
+       
+        <h2>Where to buy</h2>
+        
+        <table>
+        <tr><th>Google</th><th>EE</th><th>Carphone Warehouse</th></tr>
+        <td>Â£599</td><td>Â£599</td> <td>Â£599</td>     
+        </table>
+        <br>
+        
+        <hr>
+         
+        <h2>What can you do with the Pixel?</h2>
+        
+        <ol>
+            <li>Manage everyday tasks</li>
+            <li>Create an event, set a reminder, and text your friend the info.</li>
+            <li>Find photos fast</li>
+            <li>Relive your memories from last New Yearâ€™s Eve, or quickly find the selfies that you took last weekend.</li>
+            <li>Translate on the go</li>
+            <li>Keep tabs on travel</li>
+        </ol>
+        
+        <br>
+        
+        <hr>
+        
+        <br>
+        
+          <p>Want more information?</p>
+        
+        <form action="https://madeby.google.com/phone/">
+        
+        <input type="submit" value="Click me!">
+               
+        </form>
+        
+        <br>
+        <iframe src="https://www.youtube.com/embed/Rykmwn0SMWU?rel=0&amp;controls=0&amp;showinfo=0?ecver=2" width="820" height="461" frameborder="0" padding="80"></iframe>
+        <br>
+        
+        <hr>
+        
+        <p align="center">&copy; Webpage created by Ebrahim Ali - 2017</p> 
+        
+        <form method="get" action="#"></form>
+        
+        <input type="email" name ="username" />
+        
+        <input  name="password" type="text">
+        
+        
+               
+             
+             <sub>18</sub>
+               <sup>18</sup>
+        
+              
+               
+        
+       
+        
+    </body>
+    
+</html>
